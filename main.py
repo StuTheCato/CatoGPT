@@ -4,8 +4,8 @@ import json
 from llamaapi import LlamaAPI
 
 # Replace "<your_discord_bot_token>" and "<your_llama_api_token>" with your actual tokens
-DISCORD_BOT_TOKEN = "MTA5MjY4MjcxOTcyMjQ3MTQ0NA.Gfprtx.9pr6jPsppf32L_PzB_bfy4UgSXUTrlomkmNtIw"
-LLAMA_API_TOKEN = "LL-oJCNNVvrZZUwAknCp2J3HT5Ug2iilOzvpi6kq163nCMZwMUTMsMZuQuK8PVMlMyf"
+DISCORD_BOT_TOKEN = ""
+LLAMA_API_TOKEN = ""
 
 # Set the desired channel ID where the bot should respond
 TARGET_CHANNEL_ID = 919197436717723698  # Replace with your actual channel ID
